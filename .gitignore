@@ -1,0 +1,13 @@
+# Build artifacts
+*.bin.bak
+*.hex.bak
+*.elf
+*.map
+.build/
+*.o
+*.d
+
+# OS files
+.DS_Store
+Thumbs.db
+*~
