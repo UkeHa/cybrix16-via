@@ -15,7 +15,29 @@
 
   "keycodes": ["qmk_lighting"],
   "customKeycodes": [
-    {"name": "KC_USB", "title": "USB MODE", "shortName": "USB"}
+    {"name": "KC_LYR_NEXT", "title": "Nächste Ebene (Layer +)", "shortName": "Lyr+"},
+    {"name": "KC_LYR_PREV", "title": "Vorherige Ebene (Layer -)", "shortName": "Lyr-"},
+    {"name": "KC_STAT_DIM", "title": "Status-LED Dimmung durchschalten", "shortName": "StDim"},
+    {"name": "KC_LYR_TOG",  "title": "Wechsel Ebene 0 <-> Ebene 1", "shortName": "L0/1"},
+    {"name": "KC_AUD_SPK",  "title": "Tonquelle: Lautsprecher", "shortName": "Spk"},
+    {"name": "KC_AUD_HDS",  "title": "Tonquelle: Headset", "shortName": "Hds"},
+    {"name": "KC_SB_01",    "title": "Soundboard Slot 1", "shortName": "SB 1"},
+    {"name": "KC_SB_02",    "title": "Soundboard Slot 2", "shortName": "SB 2"},
+    {"name": "KC_SB_03",    "title": "Soundboard Slot 3", "shortName": "SB 3"},
+    {"name": "KC_SB_04",    "title": "Soundboard Slot 4", "shortName": "SB 4"},
+    {"name": "KC_SB_05",    "title": "Soundboard Slot 5", "shortName": "SB 5"},
+    {"name": "KC_SB_06",    "title": "Soundboard Slot 6", "shortName": "SB 6"},
+    {"name": "KC_SB_07",    "title": "Soundboard Slot 7", "shortName": "SB 7"},
+    {"name": "KC_SB_08",    "title": "Soundboard Slot 8", "shortName": "SB 8"},
+    {"name": "KC_SB_09",    "title": "Soundboard Slot 9", "shortName": "SB 9"},
+    {"name": "KC_SB_10",    "title": "Soundboard Slot 10", "shortName": "SB 10"},
+    {"name": "KC_SB_11",    "title": "Soundboard Slot 11", "shortName": "SB 11"},
+    {"name": "KC_SB_12",    "title": "Soundboard Slot 12", "shortName": "SB 12"},
+    {"name": "KC_SB_13",    "title": "Soundboard Slot 13", "shortName": "SB 13"},
+    {"name": "KC_SB_14",    "title": "Soundboard Slot 14", "shortName": "SB 14"},
+    {"name": "KC_SB_STOP",  "title": "Soundboard STOPP", "shortName": "SBStp"},
+    {"name": "KC_SB_VOLD",  "title": "Soundboard Lautstärke -", "shortName": "SBV-"},
+    {"name": "KC_SB_VOLU",  "title": "Soundboard Lautstärke +", "shortName": "SBV+"}
   ],
   "menus": [
     {
