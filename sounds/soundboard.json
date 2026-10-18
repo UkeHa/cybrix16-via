@@ -22,9 +22,9 @@
     }
   },
   "slots": {
-    "1":  { "matrix": "[0,1] (Reihe 1, Taste 2)", "name": "Fanfare (Demo)",  "file": "slot01_fanfare.wav" },
-    "2":  { "matrix": "[0,2] (Reihe 1, Taste 3)", "name": "Airhorn (Demo)",  "file": "slot02_airhorn.wav" },
-    "3":  { "matrix": "[0,3] (Reihe 1, Taste 4)", "name": "Retro (Demo)",    "file": "slot03_retro.wav" },
+    "1":  { "matrix": "[0,1] (Reihe 1, Taste 2)", "name": "Ich bin der Jannik",  "file": "slot01_ich_bin_der_jannik.mp3" },
+    "2":  { "matrix": "[0,2] (Reihe 1, Taste 3)", "name": "Lüge, Lüge, Lüge",  "file": "slot02_lüge.mp3" },
+    "3":  { "matrix": "[0,3] (Reihe 1, Taste 4)", "name": "Arbeitszeitbetrug",    "file": "slot03_arbeitszeitbetrug.mp3" },
     "4":  { "matrix": "[1,0] (Reihe 2, Taste 1)", "name": "Sound 4",         "file": "slot04.mp3" },
     "5":  { "matrix": "[1,1] (Reihe 2, Taste 2)", "name": "Sound 5",         "file": "slot05.mp3" },
     "6":  { "matrix": "[1,2] (Reihe 2, Taste 3)", "name": "Sound 6",         "file": "slot06.mp3" },
